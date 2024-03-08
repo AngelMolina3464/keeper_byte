@@ -1,7 +1,7 @@
-export default function CapitalHumano() {
+export default function Sistemas() {
   return (
     <>
-      <h1>Capital Humano</h1>
+      <h1>Pagina de Sistemas Y Telecomunicaciones</h1>
     </>
   );
 }

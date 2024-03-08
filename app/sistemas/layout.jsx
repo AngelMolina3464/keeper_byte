@@ -15,13 +15,10 @@ export default function SistemasLayout({ children }) {
             <Link href="/sistemas/equiposComputo">Equipos de Computo</Link>
           </li>
           <li>
-            <Link href="/sistemas/multifuncionales">Multifuncionales</Link>
-          </li>
-          <li>
             <Link href="/sistemas/asignaciones">Asignaciones</Link>
           </li>
           <li>
-            <Link href="/sistemas/Movimientos">Movimientos</Link>
+            <Link href="/sistemas/movimientos">Movimientos</Link>
           </li>
           <li>
             <Link href="/sistemas/ipRouter">Ip Address</Link>
