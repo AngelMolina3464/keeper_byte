@@ -1,7 +1,7 @@
-export default function Contact() {
+export default function Labops() {
   return (
     <>
-      <h1>Sugerencias o Mejoras</h1>
+      <h1>Contacto</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, enim et?
         Aspernatur, eaque non quasi ea debitis architecto voluptatem maxime

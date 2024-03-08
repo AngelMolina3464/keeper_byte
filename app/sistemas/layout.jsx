@@ -21,6 +21,9 @@ export default function SistemasLayout({ children }) {
             <Link href="/sistemas/movimientos">Movimientos</Link>
           </li>
           <li>
+            <Link href="/sistemas/herramientas">Herramientas</Link>
+          </li>
+          <li>
             <Link href="/sistemas/ipRouter">Ip Address</Link>
           </li>
         </ul>

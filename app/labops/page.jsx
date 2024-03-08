@@ -1,7 +1,7 @@
 export default function Devops() {
     return (
       <>
-        <h1>DevOps</h1>
+        <h1>LabOps</h1>
       </>
     );
   }
