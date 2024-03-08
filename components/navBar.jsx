@@ -9,12 +9,12 @@ export default function NavBar() {
             <Link href="/">Inicio</Link>
           </li>
           <li>
-            <Link href="/sistemasytelecomunicaciones">
+            <Link href="/sistemas">
               Sistemas y Telecomunicaciones
             </Link>
           </li>
           <li>
-            <Link href="/capitalhumano">Capital Humano</Link>
+            <Link href="/capitalHumano">Capital Humano</Link>
           </li>
           <li>
             <Link href="/devops">DevOps </Link>
