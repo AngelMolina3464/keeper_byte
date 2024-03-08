@@ -1,4 +1,5 @@
 import Link from "next/link";
+import "@/app/design.css"
 
 export const metadata = {
   title: "Keeper Byte | Sistemas y Telecomunicaciones",
@@ -8,7 +9,7 @@ export const metadata = {
 export default function SistemasLayout({ children }) {
   return (
     <>
-      <div>
+      <div className="navBar_GeneralContainer">
         <ul>
           <li>
             <Link href="/sistemas/equiposComputo">Equipos de Computo</Link>

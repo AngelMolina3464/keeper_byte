@@ -1,0 +1,18 @@
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  width: 45px;
+}
+.navbar_Container {
+  display: flex;
+  column-gap: 25px;
+  list-style: none;
+}
+.navbar_Container a {
+  text-decoration: none;
+}
+.navbar_Container a:hover {
+  text-decoration: underline;
+}
